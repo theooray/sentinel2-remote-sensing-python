@@ -7,7 +7,7 @@
 Análise de imagens de satélite **Sentinel-2** em Python, consumindo diretamente a **API do Copernicus Data Space**:
 do download da imagem ao resultado em **km² e hectares**.
 
-O material foi desenvolvido e ministrado por mim no minicurso **[NOME DO MINICURSO]** ([EVENTO], [MÊS/ANO]), para [N] participantes.
+O material foi desenvolvido para o minicurso **[Introdução ao Sensoriamento Remoto com o Sentinel-2: como obter e utilizar imagens de satélite]** ([WSIS], [10/2026]), para [30] participantes.
 Por isso o notebook começa pelos fundamentos e avança até exemplos práticos.
 
 <p align="center">
@@ -82,6 +82,7 @@ As credenciais **não ficam no código**: são lidas dos Secrets do Colab ou de 
 > Para analisar outro rio, basta trocar `BBOX` e `PERIODOS` no início da Parte 2.
 > Lembre que a API usa **longitude primeiro** e que cada rio tem a sua própria época de cheia e de seca.
 
-## 👤 Autor
+## 👤 Autores
 
-**[SEU NOME]** — [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · [GitHub](https://github.com/SEU-USUARIO)
+**[Rayson Teodoro do Carmo]** — [GitHub](https://github.com/theooray)
+**[Ana Clara Lima Moreira]** - [GitHub](https://github.com/)
