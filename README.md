@@ -13,7 +13,7 @@ O material foi desenvolvido para o minicurso **[Introdução ao Sensoriamento Re
 
 **Rayson Teodoro do Carmo** — [GitHub](https://github.com/theooray)
 
-**Ana Clara Lima Moreira** —  [GitHub](https://github.com/)
+**Ana Clara Lima Moreira** —  [GitHub](https://github.com/nana28ac))
 
 <p align="center">
   <img src="imagens/pulso_araguaia.gif" width="420" alt="Timelapse mensal do Rio Araguaia em 2024">
